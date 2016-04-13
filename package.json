@@ -1,0 +1,28 @@
+{
+  "name": "uc-first",
+  "description": "Uppercase the first character in the string.",
+  "keywords": [
+    "uc",
+    "first",
+    "uppercase",
+    "the",
+    "character",
+    "in",
+    "string"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/uc-first.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/uc-first/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/uc-first#readme"
+}
