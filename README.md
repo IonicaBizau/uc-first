@@ -16,7 +16,8 @@ $ npm i --save uc-first
 ```js
 const ucFirst = require("uc-first");
 
-console.log(ucFirst());
+console.log(ucFirst("hello world!"));
+// => Hello world!
 ```
     
 ## :memo: Documentation
