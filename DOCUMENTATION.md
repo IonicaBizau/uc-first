@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Uppercase the first character in the string.
 
 #### Params
+
 - **Number** `a`: Param descrpition.
 - **Number** `b`: Param descrpition.
 
