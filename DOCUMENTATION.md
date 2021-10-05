@@ -2,14 +2,13 @@
 
 You can see below the API reference of this module.
 
-### `ucFirst(a, b)`
+### `ucFirst(input)`
 Uppercase the first character in the string.
 
 #### Params
 
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
+- **String** `input`: Input string.
 
 #### Return
-- **Number** Return description.
+- **String** Output string.
 
