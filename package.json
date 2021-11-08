@@ -11,12 +11,16 @@
     "string"
   ],
   "license": "MIT",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "contributors": [
+    "John Watson johnwattson484@hotmail.com"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/IonicaBizau/uc-first.git"
@@ -39,5 +43,8 @@
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
-  ]
+  ],
+  "devDependencies": {
+    "jest": "^27.3.0"
+  }
 }
