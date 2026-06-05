@@ -7,8 +7,8 @@ Uppercase the first character in the string.
 
 #### Params
 
-- **String** `input`: Input string.
+- **string** `input`: Input string.
 
 #### Return
-- **String** Output string.
+- **string** Output string.
 

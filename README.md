@@ -74,7 +74,7 @@ yarn add uc-first
 
 
 ```js
-const ucFirst = require("uc-first");
+import ucFirst from "uc-first";
 
 console.log(ucFirst("hello world!"));
 // => Hello world!
@@ -82,6 +82,26 @@ console.log(ucFirst("hello world!"));
 
 
 
+
+
+
+
+
+
+
+
+## :memo: Documentation
+
+
+### `ucFirst(input)`
+Uppercase the first character in the string.
+
+#### Params
+
+- **string** `input`: Input string.
+
+#### Return
+- **string** Output string.
 
 
 
@@ -100,25 +120,6 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
-
-
-
-## :memo: Documentation
-
-
-### `ucFirst(input)`
-Uppercase the first character in the string.
-
-#### Params
-
-- **String** `input`: Input string.
-
-#### Return
-- **String** Output string.
 
 
 
