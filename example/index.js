@@ -1,6 +1,4 @@
-"use strict";
-
-const ucFirst = require("../lib");
+import ucFirst from "../lib/index.js";
 
 console.log(ucFirst("hello world!"));
 // => Hello world!

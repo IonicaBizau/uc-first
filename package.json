@@ -10,6 +10,7 @@
     "in",
     "string"
   ],
+  "type": "module",
   "license": "MIT",
   "version": "1.0.12",
   "main": "lib/index.js",
@@ -47,6 +48,6 @@
     "bloggify/"
   ],
   "devDependencies": {
-    "jest": "^27.3.0"
+    "jest": "^30.4.2"
   }
 }
